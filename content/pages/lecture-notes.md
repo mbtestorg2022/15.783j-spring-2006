@@ -55,7 +55,7 @@ Each student will give a 50 second presentation (Assignment 1b)
 4
 {{< tdclose >}}
 {{< tdopen >}}
-_Identifying Customer Needs: "Sweetwater"_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2MB]({{< baseurl >}}/resources/cls4_cstmr_ned))  
+_Identifying Customer Needs: "Sweetwater"_ ([PDF - 2.2MB]({{< baseurl >}}/resources/cls4_cstmr_ned))  
   
 Be prepared for a detailed discussion of the case. What do you consider to be the most important needs associated with water purification devices such as the Sweetwater Guardian? Get information from experienced users and find out what they think. How did you get the information?
 {{< tdclose >}}
@@ -84,7 +84,7 @@ _Industrial Design_ ([PDF - 1.1MB]({{< baseurl >}}/resources/cls6_id_lct2006_t))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-_Product Specifications and Concept Generation_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/clas7_cncpt_genr))
+_Product Specifications and Concept Generation_ ([PDF - 1.1MB]({{< baseurl >}}/resources/clas7_cncpt_genr))
 {{< tdclose >}}
 
 {{< trclose >}}
